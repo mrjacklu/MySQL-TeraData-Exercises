@@ -1,1 +1,1 @@
-# MySQL-TeraData-Exercises
+# MySQL-Coursera-Duke
